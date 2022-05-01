@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 16px;
+    width: 100%;
+    margin: 0;
+}
+.note{
+    font-size: 15px;
+    color: red;
+}
+.div_speed{
+  float: left;
+
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 24px;
+    margin: 15px;
+}
+
+.div_sound{
+    float: right;
+  
+  }
+.div_sound_img{
+      width: 200px;
+      border-radius: 100px;
+  }
+#sound{
+      font-size: 24px;
+      margin: 15px;
+  }
+button{
+      width: 120px;
+      font-size: 20px;
+  }
+canvas{
+      border: 5px solid aqua;
+      border-radius: 20px;
+  }
